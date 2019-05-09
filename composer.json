@@ -1,5 +1,5 @@
 {
-  "name": "Sopko/AlbumRepository",
+  "name": "sopko/albumrepository",
   "type": "Service",
   "description": "Services and actions for Album Entity",
   "keywords": ["service", "repository"],
