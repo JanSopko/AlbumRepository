@@ -1,0 +1,25 @@
+{
+  "name": "Sopko/AlbumRepository",
+  "type": "Service",
+  "description": "Services and actions for Album Entity",
+  "keywords": ["service", "repository"],
+  "homepage": "https://yourcompany.com",
+  "license": "non",
+  "authors": [
+    {
+      "name": "Jan Sopko",
+      "email": "jan.sopko@ringier.sk",
+      "homepage": "http://blob.blob",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "AlbumRepository\\" : "/AlbumRepository"
+    }
+  }
+}
